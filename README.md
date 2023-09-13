@@ -1,4 +1,4 @@
-"""
+
 # Multi-Movie Transcript Web Scraping Script
 
 ## Overview
@@ -47,6 +47,6 @@ This Python script is designed to scrape transcripts from multiple movies from a
 ## Conclusion
 
 This Python script provides a flexible solution for scraping transcripts from multiple movies listed on a web page. By leveraging BeautifulSoup and Requests, it streamlines the process of collecting dialogue data from various sources, making it a valuable tool for movie enthusiasts and researchers.
-"""
+
 
 
